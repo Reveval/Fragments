@@ -1,0 +1,9 @@
+rootProject.name = "Fragments"
+include ':app'
+include ':p1061fragmentactivity'
+include ':p1071actionbaritems'
+include ':p1121dynamicactionbar'
+include ':p1131actionmode'
+include ':p1151multiplescreen'
+include ':p1161mngtasks1'
+include ':p1162mngtasks2'
